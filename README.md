@@ -1,4 +1,4 @@
-# ChefShowdown-UnityClone
+# ChefShowdown_UnityClone
 Unity로 제작한 ChefShowdown의 모작 게임으로, 실제 게임 시스템을 분석하고 주요 메커니즘(직원, 요리, 주문접수 등)을 재현하여 구현했습니다.  
 본 프로젝트는 포트폴리오 용도로 제작되었으며, 상업적 목적은 없습니다.
 
